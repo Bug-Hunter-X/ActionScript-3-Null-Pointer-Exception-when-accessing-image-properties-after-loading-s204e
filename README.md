@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: a null pointer exception when accessing properties of an Image object loaded via a Loader.  The `bug.as` file shows the erroneous code, while `bugSolution.as` provides a corrected version with proper error handling.
